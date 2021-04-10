@@ -1,0 +1,44 @@
+2020-09-01 15:56:08	Update #8: Completed!
+2020-09-01 15:56:08	Update #9: Initializing update
+2020-09-01 15:56:11	Update #9: Added: Pages > Recent
+2020-09-01 15:56:11	Update #9: Completed!
+2020-09-01 15:56:18	Update #10: Initializing update
+2020-09-01 15:56:19	Update #10: Initializing update
+2020-09-01 15:56:19	Update #10: Installed ProcessLogger and added: Setup > Logs
+2020-09-01 15:56:19	Update #10: Installed InputfieldIcon
+2020-09-01 15:56:19	Update #10: Completed!
+2020-09-01 15:56:21	Update #10: Installed ProcessLogger and added: Setup > Logs
+2020-09-01 15:56:21	Update #10: Installed InputfieldIcon
+2020-09-01 15:56:21	Update #10: Completed!
+2020-09-01 15:56:28	Update #11: Initializing update
+2020-09-01 15:56:28	Update #11: Completed!
+2020-09-01 15:56:29	Update #17: Created: /lms/site/assets/.htaccess
+2020-09-01 15:56:29	Update #17: Created: /lms/site/templates/.htaccess
+2020-09-01 15:56:29	Update #17: Created: /lms/site/modules/.htaccess
+2020-09-01 15:56:29	Update #12: Initializing update
+2020-09-01 15:56:29	Update #12: Added 'published' column to pages table
+2020-09-01 15:56:29	Update #12: Populated values to 'published' for 43 pages
+2020-09-01 15:56:29	Update #12: Completed!
+2020-09-01 15:56:29	Update #13: Initializing update
+2020-09-01 15:56:30	Update #13: Completed!
+2020-09-01 15:56:31	Update #14: Initializing update
+2020-09-01 15:56:31	Update #14: Completed!
+2020-09-01 15:56:32	Update #15: Initializing update
+2020-09-01 15:56:32	Update #15: Completed!
+2020-09-01 15:56:33	Update #16: Initializing update
+2020-09-01 15:56:33	Update #16: Completed!
+2020-09-01 16:06:43	Update #17: Initializing update
+2020-09-01 16:06:43	Update #17: Skipped: /demo/lms/site/.htaccess (already exists)
+2020-09-01 16:06:43	Update #17: Skipped: /demo/lms/site/assets/.htaccess (already exists)
+2020-09-01 16:06:43	Update #17: Skipped: /demo/lms/site/assets/cache/.htaccess (already exists)
+2020-09-01 16:06:43	Update #17: Skipped: /demo/lms/site/assets/backups/.htaccess (already exists)
+2020-09-01 16:06:43	Update #17: Skipped: /demo/lms/site/assets/logs/.htaccess (already exists)
+2020-09-01 16:06:43	Update #17: Skipped: /demo/lms/site/templates/.htaccess (already exists)
+2020-09-01 16:06:43	Update #17: Skipped: /demo/lms/site/modules/.htaccess (already exists)
+2020-09-01 16:06:43	Update #17: Details: <a href='https://processwire.com/blog/posts/pw-3.0.135/' target='_blank'>https://processwire.com/blog/posts/pw-3.0.135/</a>
+2020-09-01 16:06:43	Update #17: Completed!
+2020-09-01 16:06:46	Update #18: Initializing update
+2020-09-01 16:06:46	Update #18: Completed!
+2021-03-16 13:36:38	Update #17: Created: /in/onlineleads/site/.htaccess
+2021-03-16 13:36:38	Update #17: Created: /in/onlineleads/site/assets/.htaccess
+2021-03-16 13:36:38	Update #17: Created: /in/onlineleads/site/templates/.htaccess

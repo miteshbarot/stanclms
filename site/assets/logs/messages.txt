@@ -1,0 +1,103 @@
+2020-09-08 12:15:12	admin	http://imedia.iprospect.co/demo/lms/sys/setup/template/removeFields	Deleted field "start_of_business" data in 0 row(s) from 0 page(s) using template "bank-product". [page-by-page]
+2020-09-08 12:17:09	admin	http://imedia.iprospect.co/demo/lms/sys/setup/template/removeFields	Deleted field "code" data in 0 row(s) from 0 page(s) using template "location-master". [page-by-page]
+2020-09-08 12:17:09	admin	http://imedia.iprospect.co/demo/lms/sys/setup/template/removeFields	Deleted field "current_yr_audited" data in 0 row(s) from 0 page(s) using template "location-master". [page-by-page]
+2020-09-08 12:17:09	admin	http://imedia.iprospect.co/demo/lms/sys/setup/template/removeFields	Deleted field "current_yr_depr" data in 0 row(s) from 0 page(s) using template "location-master". [page-by-page]
+2020-09-08 12:17:09	admin	http://imedia.iprospect.co/demo/lms/sys/setup/template/removeFields	Deleted field "current_yr_tax" data in 0 row(s) from 0 page(s) using template "location-master". [page-by-page]
+2020-09-08 12:17:09	admin	http://imedia.iprospect.co/demo/lms/sys/setup/template/removeFields	Deleted field "current_yr_taxable_income" data in 0 row(s) from 0 page(s) using template "location-master". [page-by-page]
+2020-09-08 13:15:34	admin	http://imedia.iprospect.co/demo/lms/sys/page/export-import/	Populated initial created/modified dates for 'image'
+2020-09-08 13:15:34	admin	http://imedia.iprospect.co/demo/lms/sys/page/export-import/	Populated initial created/modified dates for 'images'
+2020-09-08 14:23:35	admin	http://imedia.iprospect.co/demo/lms/sys/setup/template/removeFields	Deleted field "mode_of_salary" data in 0 row(s) from 0 page(s) using template "company-master". [page-by-page]
+2020-09-14 14:07:05	admin	http://imedia.iprospect.co/demo/lms/sys/setup/template/removeFields	Deleted field "summary" data in 0 row(s) from 0 page(s) using template "lead_template". [page-by-page]
+2020-09-14 16:27:06	admin	http://imedia.iprospect.co/demo/lms/sys/setup/template/removeFields	Deleted field "start_of_business" data in 1 row(s) from 1 page(s) using template "lead_template". [page-by-page]
+2020-09-14 16:31:36	admin	http://imedia.iprospect.co/demo/lms/sys/setup/template/removeFields	Deleted field "state" data in 0 row(s) from 0 page(s) using template "lead_template". [page-by-page]
+2020-09-14 18:04:54	admin	http://imedia.iprospect.co/demo/lms/sys/setup/template/removeFields	Deleted field "occupation" data in 2 row(s) from 2 page(s) using template "lead_template". [page-by-page]
+2020-09-24 17:37:46	admin	http://imedia.iprospect.co/demo/lms/sys/setup/template/removeFields	Deleted field "address" data in 0 row(s) from 0 page(s) using template "bank-product". [page-by-page]
+2020-10-07 13:56:35	admin	http://imedia.iprospect.co/demo/lms/sys/page/sort/	Updated sort for 9 pages
+2020-10-08 09:47:52	admin	http://imedia.iprospect.co/demo/lms/sys/page/sort/	Updated sort for 7 pages
+2020-10-10 12:39:46	admin	http://imedia.iprospect.co/demo/lms/sys/page/sort/	Updated sort for 2 pages
+2020-10-10 12:41:16	admin	http://imedia.iprospect.co/demo/lms/sys/page/sort/	Updated sort for 1 pages
+2020-10-10 12:41:23	admin	http://imedia.iprospect.co/demo/lms/sys/page/sort/	Updated sort for 5 pages
+2020-10-10 12:43:12	admin	http://imedia.iprospect.co/demo/lms/sys/page/sort/	Updated sort for 6 pages
+2020-10-10 12:43:44	admin	http://imedia.iprospect.co/demo/lms/sys/page/sort/	Updated sort for 7 pages
+2020-10-10 12:52:20	admin	http://imedia.iprospect.co/demo/lms/sys/page/sort/	Updated sort for 6 pages
+2020-10-10 12:57:10	admin	http://imedia.iprospect.co/demo/lms/sys/page/sort/	Updated sort for 6 pages
+2020-10-15 12:35:59	admin	http://imedia.iprospect.co/demo/lms/sys/setup/field/save?id=191	Deleted field "toggle" data in 0 row(s) from 0 page(s) using template "repeater_table_row". [page-by-page]
+2020-10-17 09:49:11	admin	http://imedia.iprospect.co/demo/lms/sys/page/sort/	Updated sort for 10 pages
+2020-10-17 16:56:48	admin	http://imedia.iprospect.co/demo/lms/sys/setup/template/removeFields	Deleted field "carousel" data in 1 row(s) from 1 page(s) using template "cc-home". [page-by-page]
+2020-10-19 20:45:29	admin	http://imedia.iprospect.co/demo/lms/sys/page/sort/	Updated sort for 6 pages
+2020-10-21 13:23:04	admin	http://imedia.iprospect.co/demo/lms/sys/setup/template/removeFields	Deleted field "carousel" data in 0 row(s) from 0 page(s) using template "cc-preapproved-offer". [page-by-page]
+2020-10-22 12:03:15	admin	http://imedia.iprospect.co/demo/lms/sys/setup/template/removeFields	Deleted field "app_status" data in 4 row(s) from 4 page(s) using template "lead_template". [page-by-page]
+2020-10-22 12:03:15	admin	http://imedia.iprospect.co/demo/lms/sys/setup/template/removeFields	Deleted field "app_status_client_id" data in 3 row(s) from 3 page(s) using template "lead_template". [page-by-page]
+2020-10-22 12:03:15	admin	http://imedia.iprospect.co/demo/lms/sys/setup/template/removeFields	Deleted field "app_status_date" data in 3 row(s) from 3 page(s) using template "lead_template". [page-by-page]
+2020-10-22 12:03:15	admin	http://imedia.iprospect.co/demo/lms/sys/setup/template/removeFields	Deleted field "app_status_segment" data in 3 row(s) from 3 page(s) using template "lead_template". [page-by-page]
+2020-10-22 12:03:15	admin	http://imedia.iprospect.co/demo/lms/sys/setup/template/removeFields	Deleted field "app_status_comment" data in 4 row(s) from 4 page(s) using template "lead_template". [page-by-page]
+2020-10-22 12:03:15	admin	http://imedia.iprospect.co/demo/lms/sys/setup/template/removeFields	Deleted field "app_status_reject_reason" data in 1 row(s) from 1 page(s) using template "lead_template". [page-by-page]
+2020-10-22 12:03:15	admin	http://imedia.iprospect.co/demo/lms/sys/setup/template/removeFields	Deleted field "app_status_reject_reason_other" data in 1 row(s) from 1 page(s) using template "lead_template". [page-by-page]
+2020-10-30 15:20:12	admin	http://imedia.iprospect.co/demo/lms/sys/setup/template/removeFields	Deleted field "desc" data in 0 row(s) from 0 page(s) using template "dialer_disposition". [page-by-page]
+2020-11-03 10:37:34	admin	http://imedia.iprospect.co/demo/lms/sys/page/sort/	Updated sort for 7 pages
+2020-11-04 13:37:29	admin	http://imedia.iprospect.co/demo/lms/sys/page/sort/	Updated sort for 5 pages
+2020-11-04 14:09:39	admin	http://imedia.iprospect.co/demo/lms/sys/setup/field/edit?id=224	Populated initial created/modified dates for 'file'
+2020-11-11 12:17:06	admin	http://imedia.iprospect.co/demo/lms/sys/setup/template/removeFields	Deleted field "stat" data in 3 row(s) from 3 page(s) using template "lead_template". [page-by-page]
+2020-11-19 12:12:53	admin	http://imedia.iprospect.co/demo/lms/sys/page/sort/	Updated sort for 2 pages
+2020-11-19 12:34:33	admin	http://imedia.iprospect.co/demo/lms/sys/page/sort/	Updated sort for 3 pages
+2020-11-23 16:27:04	admin	http://imedia.iprospect.co/demo/lms/sys/setup/template/removeFields	Deleted field "app_status_segment" data in 0 row(s) from 0 page(s) using template "app_status_bb". [page-by-page]
+2020-11-23 16:31:46	admin	http://imedia.iprospect.co/demo/lms/sys/setup/template/removeFields	Deleted field "app_status_process" data in 0 row(s) from 0 page(s) using template "app_status_bb". [page-by-page]
+2020-11-23 16:31:46	admin	http://imedia.iprospect.co/demo/lms/sys/setup/template/removeFields	Deleted field "app_status_reject_reason" data in 0 row(s) from 0 page(s) using template "app_status_bb". [page-by-page]
+2020-12-01 14:11:41	admin	http://imedia.iprospect.co/demo/lms/sys/setup/template/removeFields	Deleted field "r_features" data in 8 row(s) from 8 page(s) using template "bank-product". [page-by-page]
+2020-12-01 14:11:41	admin	http://imedia.iprospect.co/demo/lms/sys/setup/template/removeFields	Deleted field "features" data in 0 row(s) from 0 page(s) using template "bank-product". [page-by-page]
+2021-03-21 23:13:19	webadmin	http://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "document_type" data in 28 row(s) from 28 page(s) using template "lead_template". [page-by-page]
+2021-03-22 10:52:18	webadmin	http://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "product" data in 0 row(s) from 0 page(s) using template "bank-product". [page-by-page]
+2021-03-22 10:52:18	webadmin	http://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "carousel" data in 0 row(s) from 0 page(s) using template "bank-product". [page-by-page]
+2021-03-22 13:20:03	webadmin	http://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "api_keys" data in 1 row(s) from 1 page(s) using template "aggregator_master". [page-by-page]
+2021-03-22 19:06:32	admin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "address_line_1" data in 0 row(s) from 0 page(s) using template "user". [page-by-page]
+2021-03-22 19:34:24	webadmin	http://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "citycode" data in 0 row(s) from 0 page(s) using template "lead_template". [page-by-page]
+2021-03-22 22:21:37	webadmin	http://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "faqs" data in 0 row(s) from 0 page(s) using template "aggregator_lead_template". [page-by-page]
+2021-03-22 22:39:44	webadmin	http://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "user_ref" data in 0 row(s) from 0 page(s) using template "aggregator_lead_template". [page-by-page]
+2021-03-22 23:42:28	webadmin	http://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "unique_ref_code" data in 0 row(s) from 0 page(s) using template "lead_template". [page-by-page]
+2021-03-23 19:26:39	webadmin	http://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "aadhar" data in 30 row(s) from 30 page(s) using template "lead_template". [page-by-page]
+2021-03-24 15:47:26	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "cc_product" data in 0 row(s) from 0 page(s) using template "aggregator_lead_template". [page-by-page]
+2021-03-24 16:11:47	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "document_type" data in 0 row(s) from 0 page(s) using template "aggregator_lead_template". [page-by-page]
+2021-03-24 16:11:47	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "carousel" data in 1 row(s) from 1 page(s) using template "aggregator_lead_template". [page-by-page]
+2021-03-24 16:16:21	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "app_status_date" data in 0 row(s) from 0 page(s) using template "aggregator_lead_template". [page-by-page]
+2021-03-24 16:24:53	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "product_of_interest" data in 0 row(s) from 0 page(s) using template "aggregator_lead_template". [page-by-page]
+2021-03-25 21:43:29	webadmin	http://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "headline" data in 14 row(s) from 14 page(s) using template "aggregator_lead_template". [page-by-page]
+2021-03-25 21:44:23	webadmin	http://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "headline" data in 7 row(s) from 7 page(s) using template "lead_template". [page-by-page]
+2021-03-27 20:58:25	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "chart_table" data in 0 row(s) from 0 page(s) using template "bank-product". [page-by-page]
+2021-03-27 22:31:25	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "passport" data in 15 row(s) from 15 page(s) using template "lead_template". [page-by-page]
+2021-03-27 22:31:25	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "passport_validity" data in 19 row(s) from 19 page(s) using template "lead_template". [page-by-page]
+2021-03-27 22:31:25	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "lic" data in 11 row(s) from 11 page(s) using template "lead_template". [page-by-page]
+2021-03-27 22:31:25	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "lic_validity" data in 11 row(s) from 11 page(s) using template "lead_template". [page-by-page]
+2021-03-27 22:32:13	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "features_type" data in 0 row(s) from 0 page(s) using template "lead_template". [page-by-page]
+2021-03-27 23:33:02	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "education" data in 45 row(s) from 45 page(s) using template "aggregator_lead_template". [page-by-page]
+2021-03-27 23:35:09	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/field/send-templates-save?id=140	Deleted field "education" data in 118 row(s) from 118 page(s) using template "lead_template". [page-by-page]
+2021-03-28 12:50:13	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/field/save?id=249	Deleted field "title" data in 0 row(s) from 0 page(s) using template "repeater_value_chart". [page-by-page]
+2021-03-28 12:51:37	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/field/save?id=249	Deleted field "purpose" data in 0 row(s) from 0 page(s) using template "repeater_value_chart". [page-by-page]
+2021-03-28 12:51:37	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/field/save?id=249	Deleted field "business_type" data in 0 row(s) from 0 page(s) using template "repeater_value_chart". [page-by-page]
+2021-03-28 12:53:23	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/field/save?id=181	Deleted field "chart_table" data in 32 row(s) from 32 page(s) using template "repeater_feature_tabs". [page-by-page]
+2021-03-28 12:59:46	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/field/save?id=249	Deleted field "desc" data in 2 row(s) from 2 page(s) using template "repeater_value_chart". [page-by-page]
+2021-03-28 14:36:56	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "features_type" data in 0 row(s) from 0 page(s) using template "bank-product". [page-by-page]
+2021-03-28 14:56:16	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "features" data in 1 row(s) from 1 page(s) using template "bank-product". [page-by-page]
+2021-03-28 14:56:16	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "value_chart" data in 1 row(s) from 1 page(s) using template "bank-product". [page-by-page]
+2021-03-28 14:56:16	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "faqs" data in 1 row(s) from 1 page(s) using template "bank-product". [page-by-page]
+2021-03-28 15:16:55	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "product" data in 0 row(s) from 0 page(s) using template "bank-product". [page-by-page]
+2021-03-28 16:02:04	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/field/save?id=181	Deleted field "value_chart" data in 1 row(s) from 1 page(s) using template "repeater_feature_tabs". [page-by-page]
+2021-03-28 16:16:09	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/field/save?id=181	Deleted field "chart_table" data in 1 row(s) from 1 page(s) using template "repeater_feature_tabs". [page-by-page]
+2021-03-28 19:30:52	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "lname" data in 1 row(s) from 1 page(s) using template "bank-product". [page-by-page]
+2021-03-28 20:00:17	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "file" data in 0 row(s) from 0 page(s) using template "bank-product". [page-by-page]
+2021-03-28 20:02:04	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "r_features" data in 0 row(s) from 0 page(s) using template "bank-product". [page-by-page]
+2021-03-28 23:24:34	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/field/save?id=181	Deleted field "value_chart" data in 6 row(s) from 6 page(s) using template "repeater_feature_tabs". [page-by-page]
+2021-03-29 23:31:33	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "person_title" data in 306 row(s) from 306 page(s) using template "lead_template". [single-query]
+2021-03-30 01:32:08	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "employer_industry" data in 354 row(s) from 354 page(s) using template "lead_template". [single-query]
+2021-03-30 11:39:32	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "work_type" data in 110 row(s) from 110 page(s) using template "lead_template". [page-by-page]
+2021-03-30 12:47:30	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/field/send-templates-save?id=104	Deleted field "employer_industry" data in 55 row(s) from 55 page(s) using template "aggregator_lead_template". [page-by-page]
+2021-03-30 12:50:07	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "purpose" data in 76 row(s) from 76 page(s) using template "lead_template". [page-by-page]
+2021-03-30 12:50:39	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/field/send-templates-save?id=143	Deleted field "purpose" data in 43 row(s) from 43 page(s) using template "aggregator_lead_template". [page-by-page]
+2021-03-30 14:23:12	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "tl_cities" data in 0 row(s) from 0 page(s) using template "city_master". [page-by-page]
+2021-03-30 14:35:43	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "city" data in 280 row(s) from 280 page(s) using template "lead_template". [single-query]
+2021-03-30 14:35:43	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "org_code" data in 0 row(s) from 0 page(s) using template "lead_template". [page-by-page]
+2021-03-30 16:05:42	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "person_title" data in 81 row(s) from 81 page(s) using template "aggregator_lead_template". [page-by-page]
+2021-03-31 01:43:38	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "cc_product" data in 0 row(s) from 0 page(s) using template "aggregator_master". [page-by-page]
+2021-03-31 17:49:27	webadmin	https://imedia.iprospect.co/in/onlineleads/sys/setup/template/removeFields	Deleted field "person_title" data in 31 row(s) from 31 page(s) using template "aggregator_lead_template". [page-by-page]
+2021-04-03 13:26:48	admin	https://apply.standardchartered.co.in/sys/page/lister/config/	Populated initial created/modified dates for 'csv_files'
+2021-04-09 11:59:50	admin	https://apply.standardchartered.co.in/sys/page/sort/	Updated sort for 8 pages
+2021-04-09 11:59:53	admin	https://apply.standardchartered.co.in/sys/page/sort/	Updated sort for 2 pages

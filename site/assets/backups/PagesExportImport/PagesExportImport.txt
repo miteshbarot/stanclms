@@ -1,0 +1,1 @@
+When this file is present, files and directories in here are auto-deleted after a short period of time.
